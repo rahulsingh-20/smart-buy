@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# SmartBuy
 
 SmartBuy - a smart web-based E-Commerce platform having all modern features such as authentication, password change, view order status, search, filter, pagination.
 
